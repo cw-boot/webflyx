@@ -5,4 +5,8 @@
 - 12 Years a Slave
 - The Big Short
 - 12 Monkeys
+<<<<<<< HEAD
 
+=======
+- The Curious Case of Benjamin Button
+>>>>>>> update_titles
